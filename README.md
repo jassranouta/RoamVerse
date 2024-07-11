@@ -41,7 +41,7 @@ A dynamic and responsive social network website for sharing travel experiences a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/roamverse.git
+git clone https://github.com/jassranouta/roamverse.git
 ```
 
 2. Move into the project directory:
